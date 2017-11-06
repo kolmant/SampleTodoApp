@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-authentication-todo-app-master.iml" filepath="$PROJECT_DIR$/android-authentication-todo-app-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-authentication-todo-app-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/android-authentication-todo-app-master_main.iml" group="android-authentication-todo-app-master" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-authentication-todo-app-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/android-authentication-todo-app-master_test.iml" group="android-authentication-todo-app-master" />
+      <module fileurl="file://$PROJECT_DIR$/SampleTodoApp.iml" filepath="$PROJECT_DIR$/SampleTodoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleTodoApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleTodoApp_main.iml" group="SampleTodoApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleTodoApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleTodoApp_test.iml" group="SampleTodoApp" />
     </modules>
   </component>
 </project>
