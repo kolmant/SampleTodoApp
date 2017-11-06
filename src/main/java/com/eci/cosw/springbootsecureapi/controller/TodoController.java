@@ -25,10 +25,10 @@ public class TodoController
 
 
     @RequestMapping( value = "/todo", method = RequestMethod.POST )
-    public void addTodo( @RequestBody Todo todo )
+    public Todo addTodo( @RequestBody Todo todo )
         throws ServletException
     {
-        todoService.addTodo( todo );
+        return todoService.addTodo( todo );
     }
 
     @RequestMapping( value = "/todo", method = RequestMethod.GET )
